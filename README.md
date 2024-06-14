@@ -3,10 +3,10 @@
 # Packages Installation
 
 Scraping Tool:
-'''pip install beautifulsoup4'''
+```pip install beautifulsoup4```
 
 Parser:
-'''pip install lxml'''
+```pip install lxml```
 
 Request:
-'''pip install requests'''
+```pip install requests```
